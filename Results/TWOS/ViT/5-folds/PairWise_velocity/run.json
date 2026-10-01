@@ -1,0 +1,5 @@
+{
+  "name": "TWOS_SRP_chunk_velocity_5fold",
+  "tensor_folder": "TWOS/SRP_chunk_velocity_5fold/event125",
+  "n_folds": 5
+}
