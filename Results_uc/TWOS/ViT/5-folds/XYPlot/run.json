@@ -1,0 +1,10 @@
+{
+  "tensor_folder": "TWOS/XYPlot_chunk_per_user_5fold/Chong_chunk_per_user",
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

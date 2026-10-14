@@ -1,0 +1,11 @@
+{
+  "name": "TWOS_SRP_uc_r_gxy_b_vxvy_diag_5fold",
+  "tensor_folder": "TWOS/SRP_uc_r_gxy_b_vxvy_diag_5fold/event125",
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}
